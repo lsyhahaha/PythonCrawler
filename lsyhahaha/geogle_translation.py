@@ -80,17 +80,21 @@ if __name__ == "__main__":
     # str2 = "Life is short, I use python"
     # print("中文： {}".format(tran.translate(str2, "zh-CN")))
     tran = TranslateByGoogle()
-    with open('translation.txt', 'r+') as fp:
-        # print(fp.readlines())
+    with open('translation.txt', 'r') as fp:
         ret_list = [] #用来存放翻译结果
-        for line in fp.readlines():
-            print(line, end=' ')
-            str1 = line.split('\n')[0]
+        fp_list = fp.readlines()
+        for line in fp_list:
+            if ('\t' in line):
+                continue
+            # print("line = ", line)
+            str1 = line.strip() # 去掉行头的空白
             tran_zh = tran.translate(str1, 'zh-CN')
-            ret_list.append("{}: {}".format(line[:-1], tran.translate(str1, "zh-CN")))
+            print("{} \t\t\t {}".format(str1, tran_zh))
+
+            ret_list.append("{}： \t\t\t\t\t {}".format(str1, tran_zh))
 
         # print(ret_list)
 
-        for text in ret_list:
-            print(text)
-            fp.write(text + '\n')
+        with open("translation_to.txt", 'w', encoding='gbk') as fp:
+            for line in ret_list:
+                fp.write(line + "\n")

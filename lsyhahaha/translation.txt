@@ -1,0 +1,10 @@
+apple
+banana
+paper
+if
+news
+softspace
+
+This document gives coding conventions for the Python code comprising the standard
+library in the main Python distribution. Please see the companion informational PEP
+describing style guidelines for the C code in the C implementation of Python.

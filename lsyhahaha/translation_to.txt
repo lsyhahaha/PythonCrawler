@@ -1,0 +1,11 @@
+apple： 					 苹果
+banana： 					 香蕉
+paper： 					 纸
+if： 					 如果
+news： 					 消息
+softspace： 					 软空间
+
+
+This document gives coding conventions for the Python code comprising the standard： 					 本文档为包含标准的Python代码提供编码约定
+library in the main Python distribution. Please see the companion informational PEP： 					 库在主要的Python分布中。
+describing style guidelines for the C code in the C implementation of Python： 				 描述Python C执行中C代码的样式指南。
