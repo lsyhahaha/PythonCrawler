@@ -1,0 +1,85 @@
+adult [ˈædʌlt] 成年人
+
+authentication [ɔːˌθentɪˈkeɪʃn] 身份验证、认证、鉴定
+
+bit [bɪt] 稍微、小量、小块、一点
+
+byte [baɪt] 字节、位组、位元组
+
+compute [kəmˈpjuːt] 计算、估算
+
+connect [kəˈnekt]   连接
+
+count [kaʊnt] 计算、计数
+
+data [ˈdeɪtə]  数据、资料、材料
+
+decode [ˌdiːˈkoʊd]解码
+
+direction [dəˈrekʃn]方向、方位、趋势、动向、方面
+
+encode [ɪnˈkoʊd] 编码
+
+flush [flʌʃ] 冲洗
+
+form [fɔːrm]  类型、种类、形式、外表、样子、表格
+
+format [ˈfɔːrmæt] 格式化、总体安排、计划、设计、格式
+
+Gigabyte [ˈɡɪɡəbaɪt]  吉字节、千兆字节、千兆、十亿字节
+
+hobby [ˈhɒbi]  业余爱好
+
+host [həʊst]  主办
+
+image [ˈɪmɪdʒ]  形象、画像、雕像、塑像
+
+judgement [ˈdʒʌdʒmənt]  判断力、识别力、看法、意见、评价、判决、裁决
+
+lib [lɪb]  图书馆
+
+login [ˈlɔːɡɪn]   登录
+
+loop [luːp]  环形、环状物、圆圈
+
+Megabyte [ˈmeɡəbaɪt]  兆字节
+
+mime [maɪm]  默剧、模拟歌唱、假唱
+
+mountain [ˈmaʊntn]  高山、山岳
+
+package [ˈpækɪdʒ]  包、盒、袋、软件包、包裹
+
+plain [pleɪn]  清楚的、坦诚的、直率的、简单、平原
+
+port [pɔːt]  港口
+
+protocol [ˈprəʊtəkɒl]  协议
+
+quit [kwɪt]  退出
+
+scissor [ˈsɪzər]  剪
+
+select [sɪˈlekt]  选择、挑选
+
+sentence [ˈsentəns]  句子
+
+server [ˈsɜːrvər]  服务器
+
+simple [ˈsɪmpl] 简单的、朴素的、
+
+suitable [ˈsuːtəbl]  合适的、适宜的、适当、适用
+
+temple [ˈtempl]   庙宇，寺院
+
+ticket [ˈtɪkɪt]  票、券、车票、戏票、入场券
+
+total [ˈtəʊtl]  总计的、全体的、全部的
+
+transfer [ˈtrænsfɜːr]  转移，搬迁、传输
+
+transformation [ˌtrænsfərˈmeɪʃn] 变换、(彻底的)变化，改观，转变，改革
+
+uniform [ˈjuːnɪfɔːrm] 制服、校服、一致的、统一的、一律的
+
+end
